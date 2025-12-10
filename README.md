@@ -111,9 +111,7 @@ G. Reporting Layer:
           -Power BI dashboards
           -Secure networking
 
-8. Screenshots:
-
-If you skip these, your project will look incomplete. These visuals prove you built the system.
+8. Screenshots:8
 
 A. Azure Infrastructure
 
@@ -207,10 +205,5 @@ Deployment logs:
 
 G. Power BI Dashboards
 
-At minimum:
+<img width="1524" height="853" alt="image" src="https://github.com/user-attachments/assets/38b156c0-9d33-4b07-b96b-fcf8bc5c60ab" />
 
-Transaction Volume Dashboard
-
-Fraud Analytics Dashboard
-
-Customer 360 Overview
